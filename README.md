@@ -4,12 +4,11 @@
 
 **Cybersecurity Enthusiast | Blue Team & OT Security | Ing. Informática @ Duoc UC**
 
-Actualmente estoy pivotando mi carrera hacia la **Ciberseguridad** y la **Protección de Infraestructuras Críticas**. Mi background en desarrollo y UX me permite entender no solo cómo romper sistemas, sino cómo diseñarlos seguros desde el principio (*Security by Design*).
+Actualmente estoy pivotando mi carrera hacia la **Ciberseguridad**. Mi background en desarrollo y UX me permite entender no solo cómo romper sistemas, sino cómo diseñarlos seguros desde el principio.
 
 🔭 **Enfoque Actual:**
 * 🛡️ **Blue Team:** Aprendiendo sobre defensa activa, gestión de riesgos y seguridad en redes.
 * 🚩 **CTF Player:** Top 10% en **CTF Llaitún 2025-2** (Protección OT/Water Shield).
-* 🤝 **Comunidad:** Voluntaria en **BSidesCL** y activa en eventos tech.
 
 🛠️ **Arsenal Técnico:**
 * **Security:** Análisis de Vulnerabilidades, Gestión de Riesgos, Seguridad de Redes.
@@ -54,10 +53,10 @@ Actualmente estoy pivotando mi carrera hacia la **Ciberseguridad** y la **Protec
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frani3&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=frani3&theme=dark&hide_border=false" height="180" alt="streak graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frani3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=frani3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=frani3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frani3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=frani3&icon=0&color=0)](https://visitcount.itsvg.in)
